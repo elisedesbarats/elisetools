@@ -14,7 +14,7 @@ addpath(genpath('/path/to/elisetools'))
 ## Tools - just one for now but maybe more added soon who knows
 
 ### neuroimaging/check_mask_coverage 
-- When applying masks for pattern expression (e.g. with CANlab tools), it is easy to inadvertently use a mask that was defined in a different MNI space, at a different resolution, or with a different field of view than your data. This function checks if a binary mask adequately covers a beta/contrast image. 
+- When applying masks for pattern expression, it is easy to inadvertently use a mask that was defined in a different MNI space, at a different resolution, or with a different field of view than your data. This function checks if a binary mask adequately covers a beta/contrast image. 
 - It can tell you if its too small, or too big, with options for plotting the overlap (or lackthereof).
 - You can also skip plotting and just compare the headers of two .nii files (e.g. comparing data with a collaborator).
 - It was coded using Claude and tested on my data, but I tried to make helpful edits to the text and code to make it more readable for someone learning neuroimaging. 

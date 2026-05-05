@@ -1,7 +1,7 @@
 # elisetools
 
-A repo to store helpful tools I've made for working with the CanLabCore tools and SPM (see links below). 
-Feel free to edit for your own needs. 
+A repo to store helpful tools I've made for fMRI analyses with the CanLabCore tools and SPM (see links below). 
+I've been making what is useful for me, so feel free to edit for your own needs. 
 
 ## Setup
 

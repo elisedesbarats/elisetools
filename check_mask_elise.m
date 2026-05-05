@@ -1,5 +1,5 @@
 function check_mask_elise(data_file, mask_file, varargin)
-% First version 05/05/2026 by Elise Desbarats at McGill university. 
+% First version 05/05/2026 by Elise Desbarats at McGill university using Claude. 
 % General use function for overlaying and comparing a mask with your data by performing a % overlap check and plotting the difference.
 % Operates purely in the data's native voxel space via spm_vol/spm_read_vol, so will also check if the data is bigger than the mask. 
 % Probably most useful for checking wholebrain masks, but can be used to overlay a grey matter mask to see where it is on the brain 

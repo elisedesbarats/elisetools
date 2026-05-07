@@ -20,6 +20,7 @@ addpath(genpath('/path/to/elisetools'))
 - It was coded using Claude and tested on my data, but I tried to make helpful edits to the text and code to make it more readable for someone learning neuroimaging. 
 
 To do: add image of the output 
+To do: allow input of fmri data objects in addition to file pathways + add that to documentation 
 
 ## Requirements
 
